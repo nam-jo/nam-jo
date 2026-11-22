@@ -9,9 +9,9 @@
 .com/nam-jo
 
   ally, 16yo.ㅤhe / any 
-<a href="https://github.com/satzu">github rentry</a>
-<a href="YOUR-RETROBIVE-URL">main rentry</a>
-<a href="YOUR-RETROBIVE-URL">main account</a>
+<a href="https://rentry.co/satzu">pt rentry,</a>
+<a href="https://rentry.co/retrobive">main rentry,</a>
+<a href="https://github.com/retrobive">main account</a>
 </td>
 </tr>
 </table>
