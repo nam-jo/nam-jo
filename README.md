@@ -8,7 +8,7 @@
 <td width="55%" align="center" valign="middle">
 .com/nam-jo
 
-  ally, 16yo.ㅤhe / any 
+  ally, 16yo .ㅤhe / any 
 
 <a href="https://rentry.co/satzu">pt rentry,</a>
 <a href="https://rentry.co/retrobive">main rentry,</a>
