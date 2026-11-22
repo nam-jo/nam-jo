@@ -15,14 +15,3 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<details>
-<summary>nominations</summary>
-
-♡ welcome to my page!
-
-mainly into kdramas, milgram and alnst/zomst.
-
-</details>
