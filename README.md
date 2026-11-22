@@ -7,6 +7,8 @@
 </td>
 <td width="55%" align="center" valign="middle">
 .com/nam-jo
+
+  ally, 16yo.ㅤhe / any 
 <a href="https://github.com/satzu">github rentry</a>
 <a href="YOUR-RETROBIVE-URL">main rentry</a>
 <a href="YOUR-RETROBIVE-URL">main account</a>
